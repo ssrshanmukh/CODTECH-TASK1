@@ -1,1 +1,7 @@
-# CODTECH-TASK1
+Name: SOPARLA SHANMUKA REDDY
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS8849
+Domain: VLSI
+Duration: OCT-5 TO NOV-5 (2024)
+Mentor: Neela Santhosh Kumar 
+
